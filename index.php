@@ -13,6 +13,9 @@
 		<h1>
 			Bienvenido
 		</h1>
+		<h1>
+			Bienvenido
+		</h1>
 			
 		<section>
 			<?php
