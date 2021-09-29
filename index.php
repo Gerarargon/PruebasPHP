@@ -14,9 +14,9 @@
 			Bienvenido
 		</h1>
 		<h1>
-			Bienvenido
+			esto es una prueba
 		</h1>
-			
+ 			
 		<section>
 			<?php
 				$enrutador = new Enrutador();
