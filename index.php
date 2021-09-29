@@ -6,7 +6,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8"/>
-		<title>Curso PDO con PHP</title>
+		<title>Curso PDO con PHP con cambio</title>
 		<link rel="stylesheet" href="css/estilos.css">
 	</head>
 	<body>
